@@ -2,7 +2,7 @@
 🔥 This tool only for education purpose 🔥
 
 # install package 
-pkg update && pkg upgrade -y
+ #. pkg update && pkg upgrade -y
 
 Install Python and dependencies
 pkg install python python-pip git -y
