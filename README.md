@@ -1,0 +1,2 @@
+# RansomewareXbiswa
+THIS TOOL 🔫 ONLY FOR EDUCATION PURPOSE 🙏 
