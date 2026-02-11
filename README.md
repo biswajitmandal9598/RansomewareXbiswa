@@ -2,7 +2,7 @@
 
 
 
-
+ # PKG installation 🧑‍💻
 
      pkg update && pkg upgrade -y
 
@@ -20,4 +20,12 @@
 
 
      cd SARA_BUILDER_V4
+
+
+
+# devloper by ⚒️
+    instagram:- biswajitmandal9508
+ 
+
+
 
